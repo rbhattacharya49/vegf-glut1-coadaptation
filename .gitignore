@@ -1,0 +1,7 @@
+outputs/
+.mplconfig/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
